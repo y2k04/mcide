@@ -20,7 +20,7 @@ MCIDE is designed to make data packs easier to create and help introduce people 
  * Created EULA
  * Added font
  * Added icons
- > [Bug fixes]
+ ```[Bug fixes]
  * Form swapping without causing the application to quit
  * Fixed Out Of Index exception when command line arguments weren't given.
- * Fixed Out Of Index exception when applying font from PrivateFontCollection.
+ * Fixed Out Of Index exception when applying font from PrivateFontCollection.```
