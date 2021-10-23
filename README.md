@@ -20,6 +20,7 @@ MCIDE is designed to make data packs easier to create and help introduce people 
  > * Created EULA
  > * Added font
  > * Added icons
+ > * Checks for updates automatically when app starts
  > ## 
    > **Bug fixes**
    > * Form swapping without causing the application to quit
