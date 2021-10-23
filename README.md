@@ -1,6 +1,6 @@
 # MCIDE
 *A Minecraft: Java Edition Data Pack IDE*
-##_
+## _
 ## About
 MCIDE is designed to make data packs easier to create and help introduce people to the world of programming.
 
