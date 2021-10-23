@@ -1,0 +1,17 @@
+'Minecraft', 'Command Block', and other referenced items are copyright of Mojang Studios and Microsoft Corporation. 'Minecraft' was created by Markus Persson.
+
+This application is not a product of Mojang Studios or Microsoft Corporation, and does not generate or intend to generate any revenue from its usage.
+
+MCIDE has been created for educational/content creation purposes. MCIDE does not have any functionality or the intention to use this application to cause any legal damages such as:
+	- Obtaining 'Minecraft' illegally,
+	- Exploiting 'Minecraft' and potential security risks, bugs or glitches,
+	- Developing tools to hack 'Minecraft' clients and/or servers,
+	- Retrieving confidential player information,
+	- Obtaining the source code for 'Minecraft', or
+	- Any individual or group of individuals exploiting MCIDE to commit any illegal activities on or outside 'Minecraft'.
+
+Any illegal activities committed by any third-party with the use of this program are not associated with the developer (Oliver Healing) and do not involve them with contributing and/or organising any illegal actions made by a third-party.
+
+By agreeing to MCIDE's end-user license agreement, you agree to use MCIDE for educational purposes and/or as a tool for creating 'data packs' for the 'Minecraft: Java Edition' platform, to not use MCIDE for participating in any illegal activities, and to abide by the Australian Government Cybercrime Act (2001).
+
+For any information regarding the Cybercrime Act (2001), visit: https://legislation.gov.au/Details/C2004C01213
